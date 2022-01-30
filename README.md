@@ -1,5 +1,5 @@
 # UnityMemoryPalaceVR
-This repo contains the Unity file and exectuable companion to [MemoryPalaceVR](https://github.com/velvet-market/MemoryPalaceVR).
+This repo contains the Unity package file companion to [MemoryPalaceVR](https://github.com/velvet-market/MemoryPalaceVR).
 
-# Installation
-WRITE HERE
+## Installation
+Simply download the package file and import it into Unity.
